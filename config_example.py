@@ -1,0 +1,6 @@
+client_id=''
+client_secret=''
+redirect_uri='https://accounts.spotify.com/authorize'
+username=''
+good_playlist_id=''
+bad_playlist_id=''
